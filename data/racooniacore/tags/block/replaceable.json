@@ -1,0 +1,22 @@
+{
+    "values": [
+        "short_grass",
+        "tall_grass",
+        "fern",
+        "dead_bush",
+        "seagrass",
+        "tall_seagrass",
+        "crimson_roots",
+        "warped_roots",
+        "nether_sprouts",
+        "hanging_roots",
+        "vine",
+        "glow_lichen",
+        "tall_grass",
+        "large_fern",
+        "water",
+        "lava",
+        "#fire",
+        "air"
+    ]
+}
