@@ -1,4 +1,3 @@
-#declare storage racoonia:core
 
 function racooniacore:debug/log {text: "racooniacore:append_string"}
 

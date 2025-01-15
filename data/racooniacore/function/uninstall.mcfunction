@@ -1,5 +1,3 @@
-#declare storage racoonia:core
-#declare storage racoonia:datapacks
 
 scoreboard objectives remove racoonia.time
 scoreboard objectives remove racoonia.math

@@ -1,19 +1,4 @@
 # Math constants
-#declare entity #-64
-#declare entity #0
-#declare entity #1
-#declare entity #2
-#declare entity #20
-#declare entity #24
-#declare entity #60
-#declare entity #100
-#declare entity #278
-#declare entity #1000
-#declare entity #1200
-#declare entity #16667
-#declare entity #24000
-#declare entity #72000
-#declare entity #1728000
 
 scoreboard players set #-64 racoonia.math -64
 scoreboard players set #0 racoonia.math 0

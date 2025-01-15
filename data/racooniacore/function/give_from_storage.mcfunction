@@ -1,4 +1,3 @@
-#declare storage racoonia:core
 
 function racooniacore:debug/log {text: "racooniacore:give_from_storage"}
 
