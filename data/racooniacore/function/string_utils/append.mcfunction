@@ -1,5 +1,4 @@
-
-function racooniacore:debug/log {text: "racooniacore:append_string"}
+function _racooniacore:log {text:"Appending string..."}
 
 $data modify storage racoonia:core temp.a set from storage $(path)
 $data modify storage racoonia:core temp.b set value "$(text)"
