@@ -1,5 +1,3 @@
-function _racooniacore:log {text:"Searching for targeted interaction..."}
-
 scoreboard players set #bool racoonia.math 0
 execute on target store result score #bool racoonia.math if entity @s[tag=racoonia.interactor]
 
