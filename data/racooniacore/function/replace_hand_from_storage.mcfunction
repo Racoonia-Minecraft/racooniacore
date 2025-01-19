@@ -1,5 +1,4 @@
-
-function racooniacore:debug/log {text: "racooniacore:damage_tool/replace_hand_from_storage"}
+function _racooniacore:log {text:"Replacing hand from storage..."}
 
 summon armor_stand ~ ~ ~ {Tags: ["racoonia.giveStorageItem"], HandItems: [{}, {}], Invisible: true}
 data modify entity @e[tag=racoonia.giveStorageItem,sort=nearest,limit=1] HandItems[0] set from storage racoonia:core input

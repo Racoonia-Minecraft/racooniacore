@@ -1,4 +1,4 @@
-function racooniacore:debug/log {text: "_racooniacore:damage_tool/calculate"}
+function _racooniacore:log {text:"Calculating tool damage..."}
 
 # Read Damage
 execute store result score #damage racoonia.temp run data get entity @s item.components.minecraft:damage

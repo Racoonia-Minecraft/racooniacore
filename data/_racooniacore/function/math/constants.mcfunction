@@ -1,4 +1,4 @@
-# Math constants
+function _racooniacore:log {text:"Setting up math constants..."}
 
 scoreboard players set #-64 racoonia.math -64
 scoreboard players set #0 racoonia.math 0

@@ -1,5 +1,4 @@
-
-function racooniacore:debug/log {text: "racooniacore:give_from_storage"}
+function _racooniacore:log {text:"Giving items from storage..."}
 
 setblock ~ -64 ~ yellow_shulker_box{Items: []}
 data modify block ~ -64 ~ Items append from storage racoonia:core input

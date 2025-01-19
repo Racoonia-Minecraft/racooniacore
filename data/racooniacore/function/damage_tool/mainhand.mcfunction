@@ -1,3 +1,3 @@
-function racooniacore:debug/log {text: "racooniacore:damage_tool/mainhand"}
+function _racooniacore:log {text:"Damaging mainhand tool..."}
 
 function racooniacore:damage_tool/custom_slot {slot: "weapon.mainhand"}
