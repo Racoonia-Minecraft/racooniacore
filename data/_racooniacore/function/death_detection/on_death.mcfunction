@@ -1,1 +1,1 @@
-function _racooniacore:log {text:"Player died"}
+function _racooniacore:log {text:"Death event triggered"}

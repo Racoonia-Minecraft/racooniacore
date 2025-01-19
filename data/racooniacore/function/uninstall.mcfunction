@@ -1,9 +1,10 @@
-
+scoreboard objectives remove racoonia.temp
 scoreboard objectives remove racoonia.time
 scoreboard objectives remove racoonia.math
 scoreboard objectives remove racoonia.temp
 scoreboard objectives remove racoonia.settings
 scoreboard objectives remove racoonia.random
+scoreboard objectives remove racoonia.death_detection
 
 data remove storage racoonia:core input
 data remove storage racoonia:core output
