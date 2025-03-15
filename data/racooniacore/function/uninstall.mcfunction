@@ -9,5 +9,3 @@ scoreboard objectives remove racoonia.death_detection
 data remove storage racoonia:core input
 data remove storage racoonia:core output
 data remove storage racoonia:core temp
-
-data remove storage racoonia:datapacks racooniacore
