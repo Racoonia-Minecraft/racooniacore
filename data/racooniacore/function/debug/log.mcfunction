@@ -1,1 +1,1 @@
-$function racooniacore:debug/log_styled {text:'{"text":"$(text)","color":"white"}'}
+$function racooniacore:debug/log_styled {text:'{text:"$(text)",color:"white"}'}

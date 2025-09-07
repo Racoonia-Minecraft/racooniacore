@@ -9,4 +9,4 @@ scoreboard objectives add racoonia.death_detection deathCount
 function _racooniacore:setup_settings
 function _racooniacore:math/constants
 
-function _racooniacore:log {text:"Finished loading"}
+function _racooniacore:log {text:"Finished loading",meta:"_racooniacore/function/load"}

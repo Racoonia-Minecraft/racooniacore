@@ -1,4 +1,4 @@
-function _racooniacore:log {text:"Damaging tool..."}
+function _racooniacore:log {text:"Damaging tool...",meta:"racooniacore/function/damage_tool/custom_slot"}
 
 # Summon Display Entity
 summon item_display ~ ~ ~ {Tags:["racoonia.tool_damage"],transformation:{left_rotation:[0f,0f,0f,1f],right_rotation:[0f,0f,0f,1f],translation:[0f,0f,0f],scale:[0f,0f,0f]}}

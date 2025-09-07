@@ -1,4 +1,4 @@
-function _racooniacore:log {text:"Detected interaction right click"}
+function _racooniacore:log {text:"Detected interaction right click",meta:"_racooniacore/function/interaction/right"}
 
 advancement revoke @s only _racooniacore:interaction/right
 

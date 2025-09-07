@@ -1,0 +1,1 @@
+$function racooniacore:debug/log_styled {text:'{text:"[",color:"gray"},{text:"$(category)",color:"aqua",hover_event:{action:"show_text",value:"$(meta)"}},{text:"] ",color:"gray"},{text:"$(text)",color:"white"}'}

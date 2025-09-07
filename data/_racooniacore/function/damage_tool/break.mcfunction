@@ -1,4 +1,4 @@
-function _racooniacore:log {text:"Loading..."}
+function _racooniacore:log {text:"Loading...",meta:"_racooniacore/function/damage_tool/break"}
 
 # Remove item from display entity
 data merge entity @s {item:{id:"air"}}
